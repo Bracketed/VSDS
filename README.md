@@ -9,3 +9,5 @@ The link to the asset on Roblox can be found [here](https://create.roblox.com/st
 
 Team Virtua 2024
 Bracketed Softworks 2024
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBracketed%2FVSDS-V3.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FBracketed%2FVSDS-V3?ref=badge_large&issueType=license)
