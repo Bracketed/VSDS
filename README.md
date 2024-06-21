@@ -1,7 +1,7 @@
 ## VSDS (Virtua Script Distribution System)
 
 ### NOTICE
-VSDS is no longer maintained by ninjaninja140 or Team Bracketed due to the departure of ninjaninja140.
+__**VSDS is no longer maintained by ninjaninja140 or Team Bracketed due to the departure of ninjaninja140.**__
 
 This is the public repository where you can find the release files for VSDS!
 You should be able to see them in the `releases` tab of this repository.
